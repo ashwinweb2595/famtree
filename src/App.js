@@ -14,7 +14,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          style={{ textAlign: 'center' }}
         >
+          <img src={'./assets/bgimage.jpg'} style={{ width: '50%', margin: '0 auto' }} />
           Vashitva Raj Website
         </a>
       </header>
