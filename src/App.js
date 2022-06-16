@@ -17,7 +17,6 @@ function App() {
           style={{ textAlign: 'center' }}
         >
           <img src={'./assets/bgimage.jpg'} style={{ width: '50%', margin: '0 auto' }} />
-          Vashitva Raj Website
         </a>
       </header>
     </div>
